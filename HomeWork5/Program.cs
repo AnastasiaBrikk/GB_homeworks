@@ -87,6 +87,7 @@ Console.WriteLine($"Sum of even possition elements is {sum}");
 
 // Задайте массив вещественных(double, Random NextDouble()) чисел. Найдите разницу между максимальным и минимальным элементов массива. Можно сформировать отдельное число int, отдельное double чтобы сформ?
 
+/*
 double[] CreateRandomArray(int size, int min, int max)
 {
     double[] array = new double[size];
@@ -142,3 +143,4 @@ Console.WriteLine($"The min number is {Min(myArray)}");
 double dif = Max(myArray) - Min(myArray);
 dif = Math.Round(dif, 2);
 Console.WriteLine($"The different between min and max element in array is {dif}");
+*/
